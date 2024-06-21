@@ -3,7 +3,7 @@
 
 Check out the live demo of the project [https://swiftdash.netlify.app/](https://swiftdash.netlify.app/).
 
-![Dashboard Preview](swiftdash_preview.jpeg)
+![Dashboard Preview](swfit.png)
 
 ## Overview
 
