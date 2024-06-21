@@ -1,4 +1,7 @@
 # React Admin Dashboard
+## Live Demo
+
+Check out the live demo of the project [https://swiftdash.netlify.app/](https://swiftdash.netlify.app/).
 
 ![Dashboard Preview](swiftdash_preview.jpeg)
 
@@ -9,16 +12,16 @@ This project is a feature-rich React Admin Dashboard application built using Syn
 ## Features
 
 - **Theming**: Customizable themes to personalize the look and feel of the dashboard.
+ ![Dashboard Preview](theme.png)
+  
 - **Tables**: Interactive and sortable tables for data management.
+   ![Dashboard Preview](order.png)
 - **Charts**: Various chart types for data visualization.
 - **Calendar**: Integrated calendar for scheduling and planning.
+![Dashboard Preview](calendar.png)
 - **Kanban Board**: Task management using a Kanban board.
 - **Responsive Design**: Fully responsive layout to support various screen sizes.
 - **User Authentication**: Secure login and user management.
-
-## Live Demo
-
-Check out the live demo of the project [here](https://swiftdash.netlify.app/).
 
 ## Getting Started
 
